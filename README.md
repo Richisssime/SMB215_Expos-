@@ -72,7 +72,7 @@ Facultatif : Si vous souhaitez que le démon Docker démarre au démarrage du sy
 ### Se déplacer dans le dossier "apiserver"
 `cd apiserver`
 
-### Repartir dans le répertoire "fabcar"
+### Repartir dans le répertoire "fabcar"  
 `cd ..`
 --------------------------------------------------------------------
 ### Déployer le réseau Fabric avec le script fournit par Hyperledger   
