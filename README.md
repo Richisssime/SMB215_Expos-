@@ -154,11 +154,11 @@ Mettre à jour npm
 
 ### 2
 nodemon: command not found
-### Solution:
-installer nodemon
-`npm install nodemon -g --save`
+### Solution:  
+installer nodemon  
+`npm install nodemon -g --save`  
 
 ### 3
 Après un certain temps d'inactivité sur le réseau, il faut se réenroler il faut donc suprimer les fichier d'enrollement de la précédent connexion
-`rm /fabric/fabric-samples/fabcar/apiserver/wallet/admin.id`
+`rm /fabric/fabric-samples/fabcar/apiserver/wallet/admin.id`  
 `rm /fabric/fabric-samples/fabcar/apiserver/wallet/appUser.id` 
